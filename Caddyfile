@@ -1,4 +1,4 @@
 www.lifescienceaiagents.com, lifescienceaiagents.com {
     reverse_proxy n8n:5678
-    tls your-email@address.com
+    tls manoharaya03@gmail.com
 }
